@@ -4,7 +4,7 @@ Using the wikipedia dataset given, the plan was to analayse the page web visits 
 #                                  Dataset.
 The wikipedia dataset contains wikipedia webpage visits for a the year 2016 (https://en.wikipedia.org/wiki/Main_Page).
 Dataset source: Kaggle.com
-#                                 Tools uaed:
+#                                 Tools used:
 - Tablaeu
 - Excel
 - VScode
@@ -12,3 +12,11 @@ Dataset source: Kaggle.com
 - Python
 - Sqlite3
 - 
+#                                 Insights gathered was based on:
+- What were some of the most trending search topics on Wikipedia on the following days? a- New year's day b- November 8, 2016.
+- Which page experienced the biggest decline in page visits during 2016?
+- Which page experienced the biggest increase in page visits during 2016?
+- How many languages are represented in this dataset? What proportion of the pages does each language represent?
+- Which day(s) of the week is/are the most popular for visiting wikipedia?
+- Which day(s) of the week is/are the least popular for visiting wikipedia?
+- Which device type is used more frequently for visiting wikipedia i.e. desktop or mobile devices?
