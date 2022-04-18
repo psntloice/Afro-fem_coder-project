@@ -15,7 +15,7 @@ Dataset source: Kaggle.com
 #                                 Insights gathered was based on:
 - What were some of the most trending search topics on Wikipedia on the following days? a- New year's day b- November 8, 2016.
 - imgsrc="https://public.tableau.com/app/profile/loicek/viz/Nov8thanalysis/Dashboard1"
-![Optional Text](../master/myFolder/Dashboard 1.png)
+     (../master/imagefolder/Dashboard 1.png)
 - Which page experienced the biggest decline in page visits during 2016?
 - Which page experienced the biggest increase in page visits during 2016?
 - How many languages are represented in this dataset? What proportion of the pages does each language represent?
