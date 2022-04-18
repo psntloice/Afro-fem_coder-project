@@ -1,6 +1,6 @@
 # For better understanding the datasets each answer given questions:
 # Project Questions:
-what were some of the most trending search topics on Wikipedia on the following days? Using the provided dataset, can you show some evidence to support your answer? a- New year's day b- November 8, 2016- 
+What were some of the most trending search topics on Wikipedia on the following days? Using the provided dataset, can you show some evidence to support your answer? a- New year's day b- November 8, 2016- 
 
 Which page experienced the biggest decline in page visits during 2016?
 
@@ -13,4 +13,4 @@ Based on the provided dataset, which day(s) of the week is/are the least popular
 
 Based on the dataset provided, which device type is used more frequently for visiting wikipedia i.e. desktop or mobile devices?
 
-# The main notebook shows the working.
+- The main notebook shows the working.
