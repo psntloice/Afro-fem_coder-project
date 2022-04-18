@@ -4,3 +4,11 @@ Using the wikipedia dataset given, the plan was to analayse the page web visits 
 #                                  Dataset.
 The wikipedia dataset contains wikipedia webpage visits for a the year 2016 (https://en.wikipedia.org/wiki/Main_Page).
 Dataset source: Kaggle.com
+#                                 Tools uaed:
+- Tablaeu
+- Excel
+- VScode
+#                                 Languages used:
+- Python
+- Sqlite3
+- 
